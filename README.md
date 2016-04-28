@@ -49,4 +49,4 @@ TypeError: The header content contains invalid characters
 
 后来将package.json里的"http-server": "^0.6.1",改为"http-server": "^0.9.0",   问题解决~~
 
-
+http://localhost:8000/app访问项目
