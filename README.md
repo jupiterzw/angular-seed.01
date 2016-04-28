@@ -13,7 +13,7 @@ angular-seed入门
 
 下载安装包https://nodejs.org/en/download/,http://git-scm.com/;
 
-系统变量：Path 下面配置 C:\Program Files\nodejs\;D:\Git\bin 和D:\Git\mingw64\libexec路径按个人安装配置，之后就可以在cmd里面随便用git命令了;
+系统变量：Path 下面配置 C:\Program Files\nodejs\;D:\Git\bin 和D:\Git\mingw64\libexec\git-core路径按个人安装配置，之后就可以在cmd里面随便用git命令了;
 
 安装完可以用cmd：node --version 和 git --version 还有 npm --version 查看是否安装成功并且显示当前版本号。
 
